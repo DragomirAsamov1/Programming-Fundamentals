@@ -1,0 +1,5 @@
+*.cache
+bin
+obj
+/Data types and variables/.vs/Data types and variables/v16/.suo
+/Data types and variables/.vs/Data types and variables/DesignTimeBuild/.dtbcache.v2
